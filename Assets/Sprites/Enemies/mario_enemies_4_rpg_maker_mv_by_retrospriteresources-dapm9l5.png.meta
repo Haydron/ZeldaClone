@@ -1,0 +1,1527 @@
+fileFormatVersion: 2
+guid: f5a5cf31a5aa1894e87c2be69e209bec
+timeCreated: 1527950208
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_0
+    21300002: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_1
+    21300004: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_2
+    21300006: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_3
+    21300008: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_4
+    21300010: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_5
+    21300012: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_6
+    21300014: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_7
+    21300016: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_8
+    21300018: slime_1
+    21300020: slime_2
+    21300022: slime_3
+    21300024: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_12
+    21300026: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_13
+    21300028: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_14
+    21300030: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_15
+    21300032: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_16
+    21300034: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_17
+    21300036: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_18
+    21300038: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_19
+    21300040: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_20
+    21300042: slime_4
+    21300044: slime_5
+    21300046: slime_6
+    21300048: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_24
+    21300050: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_25
+    21300052: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_26
+    21300054: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_27
+    21300056: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_28
+    21300058: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_29
+    21300060: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_30
+    21300062: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_31
+    21300064: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_32
+    21300066: slime_7
+    21300068: slime_8
+    21300070: slime_9
+    21300072: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_36
+    21300074: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_37
+    21300076: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_38
+    21300078: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_39
+    21300080: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_40
+    21300082: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_41
+    21300084: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_42
+    21300086: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_43
+    21300088: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_44
+    21300090: slime_10
+    21300092: slime_11
+    21300094: slime_12
+    21300096: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_48
+    21300098: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_49
+    21300100: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_50
+    21300102: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_51
+    21300104: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_52
+    21300106: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_53
+    21300108: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_54
+    21300110: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_55
+    21300112: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_56
+    21300114: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_57
+    21300116: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_58
+    21300118: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_59
+    21300120: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_60
+    21300122: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_61
+    21300124: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_62
+    21300126: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_63
+    21300128: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_64
+    21300130: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_65
+    21300132: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_66
+    21300134: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_67
+    21300136: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_68
+    21300138: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_69
+    21300140: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_70
+    21300142: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_71
+    21300144: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_72
+    21300146: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_73
+    21300148: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_74
+    21300150: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_75
+    21300152: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_76
+    21300154: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_77
+    21300156: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_78
+    21300158: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_79
+    21300160: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_80
+    21300162: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_81
+    21300164: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_82
+    21300166: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_83
+    21300168: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_84
+    21300170: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_85
+    21300172: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_86
+    21300174: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_87
+    21300176: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_88
+    21300178: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_89
+    21300180: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_90
+    21300182: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_91
+    21300184: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_92
+    21300186: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_93
+    21300188: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_94
+    21300190: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_95
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 348
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 349
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 349
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 349
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 349
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 348
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 349
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 349
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 349
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 349
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 349
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 349
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 299
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 299
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 299
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 299
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 299
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 299
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 299
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 299
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 299
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_4
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 299
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 299
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_6
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 299
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 249
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 249
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 249
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 249
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 249
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 249
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 249
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_31
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 249
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 249
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 248
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 249
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_9
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 249
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 199
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 199
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 199
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 199
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 199
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 199
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_42
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 199
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 199
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 199
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_10
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 199
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 199
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_12
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 199
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 149
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 148
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 148
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 149
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 149
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 149
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_54
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 149
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_55
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 149
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 149
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_57
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 149
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_58
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 149
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_59
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 149
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 99
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 99
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 99
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 99
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 99
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_66
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 99
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_67
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 99
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_68
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 99
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_69
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 99
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_70
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 99
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_71
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 99
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 49
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 49
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 49
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 49
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 49
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 49
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_78
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 49
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_79
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 49
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_80
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 49
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_81
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 49
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_82
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 49
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_83
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 49
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_87
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_90
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_91
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_92
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_93
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_94
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_enemies_4_rpg_maker_mv_by_retrospriteresources-dapm9l5_95
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
