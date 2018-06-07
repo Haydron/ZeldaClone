@@ -16,7 +16,7 @@ public class WeaponCollider : MonoBehaviour
         AttackableBase attackable = collision.gameObject.GetComponent<AttackableBase>();
         if(attackable != null)
         {
-            attackable.OnHit(m_Collider, Type);
+            attackable.OnHit(m_Collider);
         }
     }
 

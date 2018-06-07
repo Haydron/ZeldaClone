@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AttackableBase : MonoBehaviour
 {
-    public virtual void OnHit(Collider2D collider,ItemType item)
+    public virtual void OnHit(Collider2D collider)
     {
         Debug.LogWarning("No OnHit event setup for " + gameObject.name, gameObject);
     }

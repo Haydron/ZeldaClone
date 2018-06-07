@@ -17,6 +17,7 @@ public class RoomManager : MonoBehaviour {
 
     void Start () {
         LoadRoom(CurrentWorld+"Start", 0, 0);
+        LoadRoom(CurrentWorld + "End", 3, -2);
     }
 
     void Update()

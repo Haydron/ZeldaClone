@@ -7,6 +7,7 @@ public class CharacterMovementView : MonoBehaviour
     public Animator Animator;
     public Transform WeaponParent;
     public Transform ShieldParent;
+    public Transform PickUpParent;
     private CharacterMovementModel m_MovementModel;
 
     // Use this for initialization
@@ -83,8 +84,22 @@ public class CharacterMovementView : MonoBehaviour
         }
     }
 
+    public void SetSortingOrderOfPickupItem(int sortingOrder)
+    {
+        if (PickUpParent == null)
+        {
+            return;
+        }
 
-         public void SetSortingOrderOfShield(int sortingOrder){
+        SpriteRenderer[] sr = PickUpParent.GetComponentsInChildren<SpriteRenderer>();
+
+        for (int i = 0; sr.Length > i; i++)
+        {
+            sr[i].sortingOrder = sortingOrder;
+        }
+    }
+
+    public void SetSortingOrderOfShield(int sortingOrder){
             if (ShieldParent == null)
             {
                 return;

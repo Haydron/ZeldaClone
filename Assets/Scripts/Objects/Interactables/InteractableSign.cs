@@ -13,13 +13,13 @@ public class InteractableSign : InteractableBase {
         {
             DialogueBox.Show(signText);
             Interacted = true;
-            character.MovementModel.SetFrozen(true,true);
+            character.MovementModel.SetFrozen(true,true,true);
         }
         else
         {
             DialogueBox.Hide();
             Interacted = false;
-            character.MovementModel.SetFrozen(false,true);
+            character.MovementModel.SetFrozen(false,false,true);
         }
     }
 }

@@ -75,7 +75,10 @@ public class CharacterAnimationListener : MonoBehaviour {
     {
         MovementView.SetSortingOrderOfShield(sortingOrder);
     }
-
+    public void SetSortingOrderOfPickupItem(int sortingOrder)
+    {
+        MovementView.SetSortingOrderOfPickupItem(sortingOrder);
+    }
     public void SetShieldDirection(string direction)
     {
         switch (direction)

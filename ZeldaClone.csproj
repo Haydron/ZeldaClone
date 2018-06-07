@@ -287,8 +287,11 @@
     <Compile Include="Assets\Scripts\Character\CharacterBaseControl.cs" />
     <Compile Include="Assets\Scripts\Character\CharacterGamepadControl.cs" />
     <Compile Include="Assets\Scripts\Character\CharacterInteractionModel.cs" />
+    <Compile Include="Assets\Scripts\Character\CharacterInteractionView.cs" />
     <Compile Include="Assets\Scripts\Character\CharacterInventoryModel.cs" />
     <Compile Include="Assets\Scripts\Character\CharacterKeyboardControl.cs" />
+    <Compile Include="Assets\Scripts\Character\CharacterMovementAdvancedModel.cs" />
+    <Compile Include="Assets\Scripts\Character\CharacterMovementAdvancedView.cs" />
     <Compile Include="Assets\Scripts\Character\CharacterMovementModel.cs" />
     <Compile Include="Assets\Scripts\Character\CharacterMovementView.cs" />
     <Compile Include="Assets\Scripts\Databases\DataBase.cs" />
@@ -300,6 +303,8 @@
     <Compile Include="Assets\Scripts\Enemies\EnemyCharacterCollision.cs" />
     <Compile Include="Assets\Scripts\General\DestoryAfterTime.cs" />
     <Compile Include="Assets\Scripts\General\GameCamera.cs" />
+    <Compile Include="Assets\Scripts\General\Helper.cs" />
+    <Compile Include="Assets\Scripts\General\RoomDoorBlockingObject.cs" />
     <Compile Include="Assets\Scripts\General\RoomManager.cs" />
     <Compile Include="Assets\Scripts\General\RoomParent.cs" />
     <Compile Include="Assets\Scripts\Interface\DialogueBox.cs" />
@@ -312,6 +317,7 @@
     <Compile Include="Assets\Scripts\Objects\AttackableBush.cs" />
     <Compile Include="Assets\Scripts\Objects\Interactables\InteractableBase.cs" />
     <Compile Include="Assets\Scripts\Objects\Interactables\InteractableChest.cs" />
+    <Compile Include="Assets\Scripts\Objects\Interactables\InteractablePickUp.cs" />
     <Compile Include="Assets\Scripts\Objects\Interactables\InteractableSign.cs" />
     <Compile Include="Assets\Scripts\Objects\ItemType.cs" />
     <Compile Include="Assets\Scripts\Objects\Weapons\WeaponCollider.cs" />

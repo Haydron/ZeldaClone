@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class DropItemOnDestroy : MonoBehaviour {
     public ItemType DropItemType;
+    bool LootDropped = false;
     public int Amount;
     [Range(0f,1f)]
     public float Probability=1;
@@ -23,6 +24,8 @@ public class DropItemOnDestroy : MonoBehaviour {
             Debug.LogWarning("No Item Data Found or The Item Data doesn't have a prefab");
             return;
         }
-        GameObject go = (GameObject)Instantiate(data.Prefab, transform.position, Quaternion.identity);
+        if (!LootDropped) {
+            GameObject go = (GameObject)Instantiate(data.Prefab, transform.position, Quaternion.identity);
+        }
     }
 }

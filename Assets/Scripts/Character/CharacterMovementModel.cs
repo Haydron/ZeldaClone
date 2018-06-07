@@ -13,8 +13,9 @@ public class CharacterMovementModel : MonoBehaviour {
     private Vector3 m_MovementDirection;
     private Rigidbody2D m_Body;
     bool m_IsFrozen = false;
+    bool m_IsDirectionFrozen = false; 
     bool m_IsAttacking = false;
-
+    bool m_IsInteracting = false;
     private ItemType m_PickingUpObject = ItemType.None;
     private ItemType m_EquippedWeapon = ItemType.None;
     private ItemType m_EquippedShield = ItemType.None;
@@ -83,7 +84,7 @@ public class CharacterMovementModel : MonoBehaviour {
 
     public bool CanAttack()
     {
-        if (!m_IsAttacking && m_EquippedWeapon != ItemType.None && !m_IsFrozen && IsBeingPushed()== false)
+        if (!m_IsAttacking && m_EquippedWeapon != ItemType.None && !m_IsFrozen && IsBeingPushed()== false && !m_IsInteracting)
         {
             return true;
         }
@@ -146,7 +147,7 @@ public class CharacterMovementModel : MonoBehaviour {
             return;
         }
 
-        SetFrozen(true, true);
+        SetFrozen(true,true, true);
         m_PickingUpObject = itemType;
 
         m_PickUpItem = (GameObject)Instantiate(itemData.Prefab);
@@ -169,9 +170,14 @@ public class CharacterMovementModel : MonoBehaviour {
     {
         return m_PushTime > 0;
     }
-
-    public void SetFrozen(bool isFrozen, bool affectGameTime)
+    public void SetInterating(bool isInteracting)
     {
+        m_IsInteracting = isInteracting;
+    }
+
+    public void SetFrozen(bool isFrozen,bool freezeDirection, bool affectGameTime)
+    {
+        m_IsDirectionFrozen = freezeDirection;
         m_IsFrozen = isFrozen;
         if (affectGameTime)
         {
@@ -192,9 +198,10 @@ public class CharacterMovementModel : MonoBehaviour {
         {
             m_PickingUpObject = ItemType.None;
             Destroy(m_PickUpItem);
-            SetFrozen(false, false);
+            SetFrozen(false,false,false);
         }
-        if (m_IsFrozen){
+        if (m_IsDirectionFrozen)
+        {
             return;
         }
 
@@ -240,13 +247,13 @@ public class CharacterMovementModel : MonoBehaviour {
     public void OnAttackStarted()
     {
         m_IsAttacking = true;
-        SetFrozen(true,false);
+        SetFrozen(true,true,false);
     }
 
     public void OnAttackFinished()
     {
         m_IsAttacking = false;
-        SetFrozen(false,false);
+        SetFrozen(false,false,false);
     }
 
     public ItemType GetEquippedShield()

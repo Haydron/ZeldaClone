@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class RoomParent : MonoBehaviour {
+
     public int Width;
     public int Heigth;
 

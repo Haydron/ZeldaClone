@@ -37,7 +37,7 @@ public class AttackableEnemy : AttackableBase {
     }
 
 
-    public override void OnHit(Collider2D hitCollider,ItemType item)
+    public override void OnHit(Collider2D hitCollider)
     {
         m_Health--;
 

@@ -13,7 +13,7 @@ public class AttackableBush : AttackableBase
         m_Renderer = GetComponentInChildren<SpriteRenderer>();
     }
 
-    public override void OnHit(Collider2D collider, ItemType item)
+    public override void OnHit(Collider2D collider)
     {
         m_Renderer.sprite = DestroyedSprite;
         if(GetComponent<Collider2D>() != null)
@@ -21,7 +21,7 @@ public class AttackableBush : AttackableBase
             GetComponent<Collider2D>().enabled = false;
         }
 
-        if(DestroyEffect != null)
+        if (DestroyEffect != null)
         {
             GameObject destroyEffect = (GameObject)Instantiate(DestroyEffect);
             destroyEffect.transform.position = transform.position;

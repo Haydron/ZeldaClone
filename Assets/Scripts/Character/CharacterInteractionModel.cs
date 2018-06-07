@@ -7,6 +7,7 @@ public class CharacterInteractionModel : MonoBehaviour {
 
     private Character m_Character;
     private CharacterMovementModel m_MovementModel;
+    private InteractablePickUp m_PickedUpObject;
 
     void Awake()
     {
@@ -16,6 +17,10 @@ public class CharacterInteractionModel : MonoBehaviour {
 
     public void OnInteract()
     {
+        if (IsCarryingObject())
+        {
+            ThrowCarryingObject();
+        }
         InteractableBase usableInteractable = FindUsableInteractable();
         if (usableInteractable == null)
         {
@@ -23,6 +28,34 @@ public class CharacterInteractionModel : MonoBehaviour {
         }
         usableInteractable.OnInteract(m_Character);
 
+    }
+
+    public void PickUpObject(InteractablePickUp pickUpObject)
+    {
+        m_PickedUpObject = pickUpObject;
+        m_MovementModel.SetInterating(true);
+        if (m_PickedUpObject == null)
+        {
+            Debug.LogWarning("pickup object not set!");
+            return;
+        }
+        m_PickedUpObject.transform.parent = m_MovementModel.PickUpItemParent;
+        m_PickedUpObject.transform.localPosition = Vector3.zero;
+        m_MovementModel.SetFrozen(false, false, false);
+        Helper.SetSortingLayerForAllRenderers(m_PickedUpObject.transform, "Foreground");
+    }
+
+    public bool IsCarryingObject()
+    {
+        return m_PickedUpObject != null;
+    }
+
+    public void ThrowCarryingObject()
+    {
+        m_PickedUpObject.Throw(m_Character);
+        m_MovementModel.SetInterating(false);
+        m_PickedUpObject = null;
+        m_MovementModel.SetFrozen(false, false, false);
     }
 
     InteractableBase FindUsableInteractable()

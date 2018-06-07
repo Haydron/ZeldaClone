@@ -30,7 +30,7 @@ public class InteractableChest : InteractableBase
             if (!Interacted)
             {
                 DialogueBox.Show(chestText);
-                character.MovementModel.SetFrozen(true, true);
+                character.MovementModel.SetFrozen(true,true, true);
             }
         }
         if (!Interacted)
@@ -41,7 +41,7 @@ public class InteractableChest : InteractableBase
         {
             DialogueBox.Hide();
             Interacted = false;
-            character.MovementModel.SetFrozen(false, true);
+            character.MovementModel.SetFrozen(false,false, true);
         }
     }
 }
